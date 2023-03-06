@@ -1,6 +1,8 @@
 # Hi, I am Sahil Khan.
 
-### I used to run a startup, a restaurant, a web magazine, and freelanced as a designer. Now I draw rectangles for startups, currently at [Last9](https://last9.io).
+### I used to run a startup, a restaurant, a web magazine, and freelanced as a designer. Now I draw rectangles for startups.
+
+Currently at [Last9](https://last9.io), helping build a timeseries data warehouse called [Levitate](https://last9.io/products/levitate/).
 
 [Reach out to me](https://twitter.com/sahilk) if you want to chat, think I can help you with something, or just want to grab a coffee or beer.
 
